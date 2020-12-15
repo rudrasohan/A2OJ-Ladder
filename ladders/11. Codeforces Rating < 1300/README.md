@@ -51,7 +51,7 @@
 |<ul><li>- [x] Done</li></ul>|44|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|45|[Bicycle Chain](http://codeforces.com/problemset/problem/215/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|46|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|50|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
